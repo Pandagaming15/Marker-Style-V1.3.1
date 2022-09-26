@@ -2,6 +2,8 @@
 
 Changes:
 *The ini Name was Also change(MarkerStyle.ini)
+
+
 There is two type of settings 
 Marker_Color_Settings
 ![Screenshot_20220926_060748](https://user-images.githubusercontent.com/96707062/192167763-28a23278-0f31-4e2a-a1e7-54bd271be9a7.jpg)
